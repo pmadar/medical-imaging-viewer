@@ -1,0 +1,62 @@
+CACHE MANIFEST
+# v18 2017-04-19
+
+CACHE:
+
+# html
+index.html
+# css
+/dwv/css/style.css
+# js
+/dwv/dwv-0.20.0-beta.min.js
+applauncher.js
+appgui.js
+# images
+/dwv/resources/help/double_tap.png
+/dwv/resources/help/tap_and_hold.png
+/dwv/resources/help/tap.png
+/dwv/resources/help/touch_drag.png
+/dwv/resources/help/twotouch_drag.png
+/dwv/resources/help/twotouch_pinch.png
+# translations
+/dwv/locales/de/translation.json
+/dwv/locales/en/translation.json
+/dwv/locales/fr/translation.json
+/dwv/locales/ru/translation.json
+/dwv/locales/zh/translation.json
+
+# third party
+
+# css
+/dwv/ext/jquery-mobile/jquery.mobile-1.4.5.min.css
+/dwv/ext/jquery-mobile/images/ajax-loader.gif
+/dwv/ext/jquery-mobile/images/icons-svg/plus-white.svg
+/dwv/ext/jquery-mobile/images/icons-svg/forward-white.svg
+/dwv/ext/jquery-mobile/images/icons-svg/back-white.svg
+/dwv/ext/jquery-mobile/images/icons-svg/info-white.svg
+/dwv/ext/jquery-mobile/images/icons-svg/grid-black.svg
+/dwv/ext/jquery-mobile/images/icons-png/plus-white.png
+/dwv/ext/jquery-mobile/images/icons-png/forward-white.png
+/dwv/ext/jquery-mobile/images/icons-png/back-white.png
+/dwv/ext/jquery-mobile/images/icons-png/info-white.png
+/dwv/ext/jquery-mobile/images/icons-png/grid-black.png
+# js
+/dwv/ext/jquery/jquery-2.1.4.min.js
+/dwv/ext/jquery-mobile/jquery.mobile-1.4.5.min.js
+/dwv/ext/jquery-mobile/jquery.mobile-1.4.5.min.map
+/dwv/ext/i18next/i18next.min.js
+/dwv/ext/i18next/i18nextXHRBackend.min.js
+/dwv/ext/i18next/i18nextBrowserLanguageDetector.min.js
+/dwv/ext/pdfjs/jpx.js
+/dwv/ext/pdfjs/arithmetic_decoder.js
+/dwv/ext/pdfjs/decode-jpeg2000.js
+/dwv/ext/pdfjs/util.js
+/dwv/ext/pdfjs/jpg.js
+/dwv/ext/pdfjs/decode-jpegbaseline.js
+/dwv/ext/rii-mango/lossless-min.js
+/dwv/ext/rii-mango/decode-jpegloss.js
+/dwv/ext/konva/konva-1.6.0.min.js
+/dwv/ext/magic-wand/magic-wand.js
+
+NETWORK:
+*
